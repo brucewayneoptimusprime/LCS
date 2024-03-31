@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711902960 source:d:\daa exam practicw\lcs\lcs\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+
